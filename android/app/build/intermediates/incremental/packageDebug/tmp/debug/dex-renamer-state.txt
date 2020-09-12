@@ -1,0 +1,4 @@
+#Sat Sep 12 13:21:33 WIB 2020
+base.0=/home/manusia/Project/Personal/react-native-project/the-warungs-mobile/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
